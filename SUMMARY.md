@@ -29,8 +29,8 @@
  * [Tableau8.x集成](integration/tableau_8.cn.md)
  * [Tableau9.x集成](integration/tableau_9.cn.md)
  * [Apache Zeppelin集成](integration/zeppelin.cn.md)
-* KAnalyzer
- * [KAP可视化分析平台KAnalyzer简介](integration/saiku.cn.md)
+* KyAnalyzer
+ * [KAP可视化分析平台KyAnalyzer简介](integration/saiku.cn.md)
 * [快速实践](practice/README.md)
 * [常见问题](faq/README.md)
 * [联系我们](contact/README.md)
