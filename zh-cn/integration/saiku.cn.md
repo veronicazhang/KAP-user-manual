@@ -1,10 +1,10 @@
 > Kyligence公司基于Saiku进行二次开发，提供定制版对KAP友好的访问页面
 
 ### 安装
-通过Kyligence公司获得定制版的saiku安装包 saiku-server-knalyzer-{version}.zip,由于Saiku是基于Mondrian转换SQL，因此我们需要获得对应KAP版本的Mondrian包。对应Mondrian包可在 [github](/Kyligence/kylin-mondrian/blob/master/build/mondrian-kylin-1.0.jar) 上获得。
+通过Kyligence公司获得定制版的saiku安装包 saiku-server-knalyzer-{version}.zip,由于Saiku是基于Mondrian转换SQL，因此我们需要获得对应KAP版本的Mondrian包。对应Mondrian包可在 [github](https://github.com/Kyligence/kylin-mondrian/blob/master/build/mondrian-kylin-1.0.jar) 上获得。
 解压saiku安装包，把mondrian-kylin对应的jar包拷到 saiku-server/tomcat/webapps/saiku/WEB-INF/lib 目录下。
 
-通过saiku-server 目录下的 start-saiku.sh启动saiku，默认端口为8080, 初始默认帐号密码为 admin/admin。可通过http://host:8080访问页面。
+通过saiku-server 目录下的 start-saiku.sh启动saiku，默认端口为8080, 初始默认帐号密码为 admin/admin。可通过 http://host:8080 访问页面。
 
 ![](/images/integration/saiku/saiku_login.png)
 
@@ -106,7 +106,6 @@ mondrian的schema有各种语法。这里提供官方的[文档链接](http://mo
                              <Column name='CATEG_LVL3_NAME'/>
                          </Name>
                      </Attribute> 
-
                </Attributes>
 
                <Hierarchies>
@@ -117,7 +116,6 @@ mondrian的schema有各种语法。这里提供官方的[文档链接](http://mo
                   </Hierarchy>
                </Hierarchies>
         </Dimension>
-
 
       </Dimensions>
       <MeasureGroups>
