@@ -13,5 +13,5 @@
 
 #### 路径变量
 * type - `必选` `string` 'METADATA' 或者 'CUBE'
-* name - `必选` `string` 缓存键只, 比如 Cube 名称.
+* name - `必选` `string` 缓存键值, 比如 Cube 名称.
 * action - `必选` `string` 'create', 'update' or 'drop'
