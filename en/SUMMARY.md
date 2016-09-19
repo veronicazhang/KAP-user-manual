@@ -9,8 +9,8 @@
  * [Data Import](molap/datasource.cn.md)
  * [Create Data Model](molap/datamodel.cn.md)
  * [Create Cube](molap/create_cube.cn.md)
- * [Build Cube](molap/build_cube.cn.md)
- * [SQL Query](molap/query.cn.md)
+ * [Build Cube](molap/build_cube.md)
+ * [SQL Query](molap/query.md)
 * Web Interface
  * [Query](gui/web.cn.md)
  * [Visualization](gui/visualization.cn.md)
