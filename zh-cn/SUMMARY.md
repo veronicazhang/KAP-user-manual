@@ -32,7 +32,7 @@
 * KyAnalyzer
  * [KAP可视化分析平台KyAnalyzer简介](integration/saiku.cn.md)
  * [如何创建Schema](integration/saiku_mondrian_schema.cn.md)
-* [快速实践](practice/README.md)
-* [常见问题](faq/README.md)
+* [(TODO) 实践](practice/README.md)
+* [(TODO) 常见问题](faq/README.md)
 * [联系我们](contact/README.md)
 

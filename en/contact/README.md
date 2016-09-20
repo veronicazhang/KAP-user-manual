@@ -1,13 +1,15 @@
-# 联系我们
+# Contact US
 
-欢迎您通过任何方式与我们联系：
+Welcome to contact us by any means.
 
-商务咨询：[info@kyligence.io](mailto:info@kyligence.io) 
+Company: Shanghai Kyligence Information Technology Co., Ltd
 
-加入我们：[talent@kyligence.io](mailto:talent@kyligence.io)
+Business Info：[info@kyligence.io](mailto:info@kyligence.io) 
 
-产品问题反馈：[support@kyligence.io](mailto:support@kyligence.io)
+Join Us: [talent@kyligence.io](mailto:talent@kyligence.io)
 
-微信公众号：kyligence
+Support and Feedback: [support@kyligence.io](mailto:support@kyligence.io)
 
-地址：上海市浦东新区亮秀路112号Y1座405室
+WeChat ID: kyligence
+
+Address: Rm 405, Bld Y1, No. 112, LiangXiu Road, Shanghai, China
