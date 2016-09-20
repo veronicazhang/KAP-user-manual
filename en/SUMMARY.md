@@ -7,8 +7,8 @@
 * Quick Start
  * [Sample Data Set](molap/dataset.cn.md)
  * [Data Import](molap/datasource.cn.md)
- * [Create Data Model](molap/datamodel.cn.md)
- * [Create Cube](molap/create_cube.cn.md)
+ * [Create Data Model](molap/datamodel.en.md)
+ * [Create Cube](molap/create_cube.en.md)
  * [Build Cube](molap/build_cube.md)
  * [SQL Query](molap/query.md)
 #* (TODO) Web Interface
